@@ -1,0 +1,17 @@
+<TEI> 
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+               <title>Кавказские повести</title>
+	       <author> Бестужев-Марлинский А.А. </author> 
+            </titleStmt>
+            <respStmt>
+                <persName>Машковцева Лера</persName>
+                <resp>создание TEI документа, выделение в тексте прямой речи </resp>
+            </respStmt>
+         </fileDesc>
+    </teiHeader>
+<text><speech>
+<said type="direct" aloud="true"-- Уговорит, как ему не уговорить? </said> <athour_comment> -- <speech_verb>раздавалось </speech_verb> в толпе </athour_comment>. -- <said type="direct" aloud="true"> Фетхали, если прибеднится, так у нищего полбороды выканючит... Самого шайтана перехитрит!.. Змею на хвосте заставит плясать! Преумнейшая бестия! Препочтенный плутяга! Тебя же обманет, с тебя ж за то придачи возьмет, да ты же ему и накланяешься. А как примется говорить, господи, твоя воля, как он говорит! </said>
+</speech></text>
+</TEI>
